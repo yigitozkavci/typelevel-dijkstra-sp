@@ -4,7 +4,7 @@ Dijkstra's shortest path algorithm implemented at type level with Haskell
 ## How To Run
 ```bash
 $ ghci Dijkstra.hs
-> :kind! Dijkstra
+> :kind! Solution
 = '[0, 6, 2, 5]
 ```
 
