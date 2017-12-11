@@ -4,7 +4,7 @@ Dijkstra's shortest path algorithm implemented at type level with Haskell
 ## How To Run
 ```bash
 $ ghci Dijkstra.hs
-$ :kind! Dijkstra
+> :kind! Dijkstra
 ```
 
 ## How to play with the graph
